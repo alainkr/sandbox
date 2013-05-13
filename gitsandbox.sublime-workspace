@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"cust",
+				"customer"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"getC",
+				"getCustomer"
+			],
+			[
+				"custm",
+				"customerID"
+			],
+			[
+				"para",
+				"routeParams"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"cu",
+				"customeredit"
+			],
+			[
+				"ng-",
+				"ng-show"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"l",
+				"label"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"packag dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preti",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"openv",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"op",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/sublime.sublime-project",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/SideBarGit/Default (Windows).sublime-keymap",
+		"/C/Users/Alain.Kreienbuhl/Dropbox/notes/chrome.notes",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/Scripts/angular.js",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/User/html/labelinput.sublime-snippet",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/CustomerManagementApp.html",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/controllers/controllers.js",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/app.js",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/partials/orders.html",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/partials/customerOrders.html",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/Content/styles.css",
+		"/c/Users/Alain.Kreienbuhl/Dropbox/notes/windows.notes",
+		"/c/Users/Alain.Kreienbuhl/Dropbox/notes/angularjs.notes",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/partials/customeredit.html",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/User/html/labelinput.sublime--",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/bin/chromi.bat",
+		"/C/Users/Alain.Kreienbuhl/AppData/Local/Chromium/User Data/Default/Extension State/CURRENT",
+		"/C/Users/Alain.Kreienbuhl/AppData/Local/Chromium/User Data/Default/Extension State/MANIFEST-000007",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/services/customersService.js",
+		"/C/tools/chrome-win32/chrome-win32/chrome.bat",
+		"/c/bin/chrome.bat",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Commands.sublime-commands",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/readme.md",
+		"/C/tools/angularjs/angularjstest/todo.js",
+		"/C/tools/angularjs/angularjstest/project.js",
+		"/C/tools/angularjs/angularjstest/utils.js",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/partials/customers.html",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/partials/ordersTable.html",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/tools/angularjs/angularjstest/details.html",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/directives/animatedView.js",
+		"/C/tools/websamples/labels.html",
+		"/C/tools/labels.html",
+		"/C/tools/Apache2.2/conf/httpd.conf",
+		"/C/tools/Apache2.2/conf/extra/httpd-userdir.conf",
+		"/C/tools/angularjs/angularjstest/TodoListMongo.html",
+		"/C/tools/angularjs/angularjstest/list.html",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/AngularJSDemos.sln",
+		"/C/tools/angularjs/angularjstest/HelloWorld.html",
+		"/C/tools/angularjs/angularjstest/mongolab.js",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/Web.config",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/packages.config",
+		"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/Readme.txt",
+		"/C/tools/Apache2.2/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/Default/copy_path.py",
+		"/C/Users/Alain.Kreienbuhl/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/tools/Sublime Text 2/sublime_plugin.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{",
+			"Table.html",
+			"order*html",
+			"order\\.html",
+			"html",
+			"order??able?html",
+			"order*Table*.html",
+			"table",
+			"ta",
+			"\\",
+			"customers.html",
+			"customer.html",
+			"AppData",
+			"\\",
+			"The",
+			"th",
+			"The name",
+			"t",
+			"the name is Dalton\n",
+			"the name is Dalton",
+			"func",
+			"find",
+			"function",
+			"func",
+			"d",
+			"when",
+			"/{\"/><",
+			"data-",
+			"                <?",
+			"<Dire",
+			"System",
+			"\n		",
+			"`",
+			"ctrl+!",
+			"consol",
+			"run",
+			"ctrl",
+			"ctrl+shift+c",
+			"copy",
+			"copy_to",
+			"System"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\\",
+			"The name\\n",
+			"The name",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cust",
+				"AngularJSDemos/app/partials/customeredit.html"
+			],
+			[
+				"chrom",
+				"notes/chrome.notes"
+			],
+			[
+				"ang",
+				"Scripts/angular.js"
+			],
+			[
+				"sty",
+				"Content/styles.css"
+			],
+			[
+				"cus",
+				"app/partials/customeredit.html"
+			],
+			[
+				"",
+				"CustomerManagementApp.html"
+			],
+			[
+				"app",
+				"app/app.js"
+			],
+			[
+				"contro",
+				"app/controllers/controllers.js"
+			],
+			[
+				"cont",
+				"app/controllers/controllers.js"
+			],
+			[
+				"control",
+				"app/controllers/controllers.js"
+			],
+			[
+				"custome",
+				"app/partials/customeredit.html"
+			],
+			[
+				"customer",
+				"CustomerManagementApp.html"
+			],
+			[
+				"vr",
+				"app/services/customersService.js"
+			],
+			[
+				"custol",
+				"CustomerManagementApp.html"
+			],
+			[
+				"ctrl",
+				"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/controllers/controllers.js"
+			],
+			[
+				"c",
+				"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/services/customersService.js"
+			],
+			[
+				"ot",
+				"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/app/partials/ordersTable.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/tools/angularjs/AngularJSDemos/AngularJSDemos/sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}
