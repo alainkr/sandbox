@@ -1,7 +1,10 @@
 # This is an H1
 
+<<<<<<< HEAD
 Let revert this
 
+=======
+>>>>>>> 5071f15... small change
 ## This is an H2
 
 ###### This is an H6
